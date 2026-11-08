@@ -38,8 +38,8 @@ APP_NAME           = os.environ.get("APP_NAME", "SuperToolsX")
 TG_BOT_LINK        = os.environ.get("TG_BOT_LINK", "https://t.me/Licenceserver_bot")
 
 # ── FORCE JOIN CONFIG ──
-FORCE_CHANNEL_USERNAME = "@SUPER_WORKERS"  # চ্যানেলের ইউজারনেম
-FORCE_CHANNEL_LINK     = "https://t.me/SUPER_WORKERS"
+FORCE_CHANNEL_USERNAME = "@niloydev34"  # চ্যানেলের ইউজারনেম
+FORCE_CHANNEL_LINK     = "https://t.me/niloydev34"
 
 # ConversationHandler states
 CAPTCHA_STATE      = 1
