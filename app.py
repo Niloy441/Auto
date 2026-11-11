@@ -27,8 +27,8 @@ from telegram.ext import (
 app = Flask(__name__)
 
 DATABASE_URL    = os.environ.get("DATABASE_URL")
-BOT             = "@Taskl1_bot"
-COOKIE_SELL_BOT = "@NexTask12_Bot"
+BOT             = "@QuickTaskPay1_bot"
+COOKIE_SELL_BOT = "@QuickTaskPay1_bot"
 
 # ── LICENSE BOT CONFIG ──
 LICENSE_BOT_TOKEN  = os.environ.get("LICENSE_BOT_TOKEN", "9276185412:AAGmvpggK2S7RPBxBWPa9r8wW1UKcEb0B5A")
